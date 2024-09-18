@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "824064515305",
+    "firebase_url": "https://anmytas-default-rtdb.firebaseio.com",
+    "project_id": "anmytas",
+    "storage_bucket": "anmytas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824064515305:android:8f154ea959415afab1e478",
+        "android_client_info": {
+          "package_name": "anmytas.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhwZulpwhrN8QE-LlHVPj9HV41EWrvZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
